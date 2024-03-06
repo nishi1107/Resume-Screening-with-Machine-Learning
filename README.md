@@ -10,4 +10,4 @@ Column-1 - Category: Specifies to which category(Data Science, Java, Testing, ET
 Column-2 - Resume: Holds the data like education, work experience, skills and other relevant qualifications. 
 Our task is to classify into one of the given category based on the resume data.
 
-**This is a multiclass-classifcation machine learning problem.**
+**This is a multiclass-classification machine learning problem.**
